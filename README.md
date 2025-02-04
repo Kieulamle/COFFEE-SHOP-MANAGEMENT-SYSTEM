@@ -6,4 +6,4 @@ Report: REQUIREMENTS SPECIFICATIONS, ANALYSIS AND DESIGN(Use-case Diagram, Use-c
 
 Web( for customer)
 
-App (for manager)
+App Desktop(for manager)
